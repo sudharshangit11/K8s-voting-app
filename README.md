@@ -1,9 +1,4 @@
-AKIAUU3MC44B42XHSQV5
 
-
-21BUa5g1VhjfrnJXS+Rl4JUTNj2ItJ2ro0BFeEnM
-
-arn:aws:iam::319664875267:user/sudharshanaws11
 
 
 
